@@ -1,0 +1,55 @@
+.fact-image {
+    width: 200px;
+    height: 150px;
+    background-image: url("https://static.dzeninfra.ru/s3/zen-lib/1.003.1/dzen-layout/lz5XeGt8fsa/F1cj07139/6ea0b9IL-/wA8PaDcSlCDoDpuC9wAS_BQObde8Hru2yzqCBadOBNnfawwyLyrUrKVuDlnD3cj1stqnMETVpyFV783cqon_z8xLS0ETcoklrR5ik-4xS9lZewSm6FK2m847p1W2TzykngKRHl8r7dXs1ipZ46F0XT6jdpjxVE7ktDeQzfOchqOoXyoVMgqoYKRbp4LuxP-UKDrR0-w-Lq6zj9YRE6cYEdt7-OoDn62lpIt7tPYhSBVuRyqEecxKfKivlLVf9K4yxJ9anRKC3Dgodgfi-mC-WECm5Xewwtoq2z8enYejCBVPtxh-B89ZuZivPxierTxlci-W3IW0UjhUIwxBP3CuYpwr_sG2OsCwdM6DXiqEZkwwcmHzNPKqTh-jfoWDW5ANK_N8fpcffbU4Q-MICtFsJXKj6jjluH4gLFcMiUdINio4lyohUr5UYMhmI17ejErcJBqRswyOssIXM_rNp9-o-YMXZO5LQ4nB1CPXoJY9ROFqYypEXVhikBg_HIHLBKZOjPeemVLqpJhAygfGlmy28FTyAcccTt4qQ9siBQsDiLnPRxg627vx6cyLs4R-0VDt9g_CAGWE2tyYQ7Qtf4xi_qwrymnqbiAg1IrXelIc2jTcuhUzxJ62JqszYj1_C6Ql6x-Ucg_7oTWws-PELkWgba4PolhFuGIssJMcUWf0fs7AWx6N1vqwPHi-0-o-3M4whAbx1xC2Yu4TrxIFp0v08evfLDIrz-Uh7ENHtO4lbLVSe3pAYbjmULzniAEXxDoaHNtSxeomvOR8Hl_eYowuqJQGzUt4Suqaxwt6XetTCFFn87QGI-fd4eRLqxyarUiJPgfC4Cmw1hBIF2j512y-DpwPhoWSmsjIeJI_gqqEHojI9ulbRN6yUg9PnglX-6Dtc1dsHrNrXen0N8uYxikAhYqjoqjRVG50mCPwRcNsKnbQX_Kl2rokYMzOi2IWjNKgtPbtXxD6bgJb2yIVb9v8AWN7pA7XF9FRoIPrGCZpUCX-52pAjQAOqARb8CHj3PZ2iB_OSUbiCDy4gjt2Ejw2JGQu6Qe0YiqeZ3vaQXsX4LXbCyBK08_RMdDvj1Tm_TipYh-aLFGYZigkm-S1K8TyfrxD3k0mlghUtAKDVq7YZtSs0nlPfI5aSpsPfkX3r5hl98NQbvOzqVGoi3PIbnm4FYLr3uxhwG7YKNuYRWv0vubQr6rVtrogTIyCe0I-3Mb05Gr5T0wGriIfD7o9rxOYVX_P6JYnL40p6PP_uO6pJHVuqxYgVcA2KNC_4LnX0B4CDI8eZZ4OhCDkSl8CBojazMAqYTMMbiKGGyeCtTs3oPFfk6Qa3_OpIbCXYxwKeWx5_uNapEnM-lQAoxite4wyptgb2tkCdjDALH477p6smoQM4nnztBLyImd3agFvOwgRr7tgkpeXtSHs5_vU-nkwPW57mrCJPALAVIeEPctYYhZIS5bJzjK4aITmr6KCBM4gBDJho6yG8rpPUza1g6OA8aOXFBYbK3WF1Kd_0J6FaDUWd5r4BYRCPPTrjAWjqMKiIP9ysbpmPCwMRqPODiTOELx-RYvwErZCC0eOHXvbIB0Lt6guq8-xbch_rwyqoTAF0pv21P2EqsCcF9gN63gezrDLRg0WdqysVOLXVnKwUgjUEm3DKIYmHqu3Xllrz3yhi2u4KgPvNd1Ua680utWobQJzWjQNUDq48FO0Jbfc5vYM2_JNDv6cULxio2YiUJY80LqRPxwC6qrPI2pVr9NU5XsbIO5TT035KD8nPCZpMP2S4-44fRDyRDhv7I1X2Jqa8AMKOZ76rDhkysPOAvQK0MheYb-oynpeB3d-0edXYA2HbywWw5-98VCnJxwWVVztDqOW1Kmw5pxAgzRNe1BqCjR7Ur3KkoQchJqnDrYYLrSYAnGvoO56tg_XBnGX02zx11d4Als_Cbkk50P07n2cQeazatzR1FZIuANgwVOUHqLIf3KNLk500DRC0_Zo");
+    background-size: cover;
+}
+
+.gif-container {
+    width: 500px;
+    height: 300px;
+    background-image: url("coffee-drip.gif");
+    background-size: cover;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+}
+
+.logo {
+    width: 150px;
+    height: 80px;
+    background-image: url("Star.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: block;
+}
+body {
+    margin: 20px;
+    font-family: "Times New Roman";
+    background-color: antiquewhite;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+
+.fact-content {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.faxt-text{
+    flex: 1;
+}
+
+.coffe-facts-title{
+    font-weight: bold;
+    font-style: italic;
+}
